@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="January"
+        >
+    </item> <item
+    android:title="February"
+    >
+</item> <item
+    android:title="March"
+    >
+</item> <item
+    android:title="April"
+    >
+</item> <item
+    android:title="May"
+    >
+</item> <item
+    android:title="June"
+    >
+</item> <item
+    android:title="July"
+    >
+</item> <item
+    android:title="August"
+    >
+</item> <item
+    android:title="September"
+    >
+</item> <item
+    android:title="October"
+    >
+</item> <item
+    android:title="November"
+    >
+</item> <item
+    android:title="December"
+    >
+</item>
+</menu>

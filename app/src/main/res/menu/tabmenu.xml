@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="All"
+        ></item><item
+        android:title="National"
+        ></item><item
+        android:title="Provincial"
+        ></item><item
+        android:title="Local"
+        ></item>
+
+</menu>
